@@ -12,6 +12,6 @@ Para execução desse projeto foi ulizada as seguintes linguagens:
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <br><br>
-Mas o principal elemento que permitiu o avanço do projeto foi a API disponibilizada pelo próprio GLPI.
-<hr>
-Apesar de ser um projeto consideravelmente simples, foi um projeto complexo de se relizar devido a ser minha primeira experiencia integrando uma API em um sistema. Enfim foi um projeto que me diverti e aprendi muito realizando.
+Utilizei tambem algumas bibliotecas Javascript para complementar. Mas o principal elemento que permitiu o avanço do projeto foi a API disponibilizada pelo próprio GLPI.
+##
+Apesar de ser um projeto consideravelmente simples, foi um projeto complexo de se relizar devido a ser minha primeira experiencia integrando uma API em um sistema, acredito que hajam muitas melhorias que possam ser feitas. Enfim foi um projeto que me diverti e aprendi muito realizando.
